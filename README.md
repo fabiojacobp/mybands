@@ -1,2 +1,0 @@
-# mybands
-Begin app
